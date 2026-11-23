@@ -1,0 +1,19 @@
+# Build
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+.cache/
+# Executables
+RayTracing
+
+# Render output
+*.ppm
+
+# Editor
+.vscode/
+.idea/
+
+# System
+.DS_Store
